@@ -12,4 +12,4 @@ Img Source: [Vedal](https://vedal.ai/)
 
 
 
-*I'm not the creator of the image. I just make it its respective pixel resolutions. All credit to Vedal(or his artist)*
+*I'm not the creator of the image. I just make it its respective pixel resolutions. All credit to Vedal(or his artist).*
